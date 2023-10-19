@@ -1,1 +1,2 @@
 Este é o 1o Ficheiro do rep my-github-repo
+ficheiro editado por miguel
